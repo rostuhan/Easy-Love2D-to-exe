@@ -5,4 +5,5 @@
 5. Done!
 
 If you want to change game icon use ResourceHacker (Ctrl+R to change icon)
-http://www.angusj.com/resourcehacker/ --Resource Hacker link
+http://www.angusj.com/resourcehacker/reshacker_setup.exe --Resource Hacker .exe installer (4mb)
+http://www.angusj.com/resourcehacker/resource_hacker.zip --Resource Hacker .zip (3mb)
